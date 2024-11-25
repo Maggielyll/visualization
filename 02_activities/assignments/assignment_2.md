@@ -24,11 +24,11 @@
       ```
  - How could this data visualization have been improved?  
       ```
-      Good visualtion: 
+      Good visualization: 
       Though the visualization performs well, there are ways to enhance its effectiveness. One suggestion is to incorporate interactive elements, such as clickable moon phases that display more detailed information when selected. This would engage users who want to explore further without detracting from the main message. For example, clicking on the full moon could provide additional scientific facts or cultural significance, adding depth to the learning experience.
       Another potential improvement lies in expanding its accessibility. While the design avoids relying solely on color, incorporating patterns or textured symbols for each phase could further improve accessibility for individuals with severe visual impairments. The design could also benefit from a brief written description of the lunar phases cycle, which would assist viewers who may struggle with visual interpretation. These enhancements would increase both user engagement and the accessibility of the information presented.
 
-      Bad visualtion: 
+      Bad visualization: 
       To improve this visualization, a major simplification of the design is necessary. The data should be broken down into smaller, more manageable sections. For example, instead of displaying all variables at once, the designer could create separate charts for each aspect—such as one chart for occupations over time and another for geographic distribution. This would allow viewers to focus on one aspect of the data at a time, making it easier to process and understand. 
       Another improvement would be to introduce interactivity, such as filters that allow users to isolate specific variables like gender, country of origin, or occupation. This would enable viewers to explore the data more efficiently and tailor the chart to their interests without being overwhelmed by irrelevant information. Furthermore, increasing font size and incorporating alternative visual cues such as patterns would enhance accessibility for all users, including those with visual impairments. By simplifying the layout and improving the user experience, the visualization would become far more effective in communicating its data.
 
