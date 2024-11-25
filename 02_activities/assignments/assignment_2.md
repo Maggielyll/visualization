@@ -10,12 +10,14 @@
 - For each visualization (good and bad):  
     - Explain (with reference to material covered up to date, along with readings and other scholarly sources, as needed) why you classified that visualization the way you did.
       ```
-    c:\Users\yihan\Desktop\good visualization.png
+    ![good visualization](https://github.com/user-attachments/assets/1fa9cbbe-552e-43d4-bfa1-371c5228f1c4)
+
     Good visualtion: 
      The Lunar Phases chart exemplifies strong clarity and accessibility, as it presents a scientifically accurate and easy-to-understand depiction of the lunar cycle. The use of clear labels for each moon phase, such as waxing crescent or full moon, makes it straightforward for viewers to grasp the cycle's stages. The inclusion of an Earth-centered diagram, along with the Moon’s orbital progression, further enhances comprehension by mirroring real-world celestial dynamics. It avoids over-reliance on color, using distinct shapes for the moon phases to ensure accessibility for those with visual impairments. The information is well organized in a cyclical layout, reinforcing the natural repetition of lunar phases, which helps users understand the ongoing nature of the lunar cycle.
      The chart successfully balances visual appeal with clarity. Its minimalist design, clean typography, and efficient use of space reduce visual noise, directing attention toward the critical information. The legend explaining waxing and waning phases is concise and adds valuable context without overwhelming the viewer with excessive detail. It also emphasizes factual accuracy, avoiding any misrepresentation of the lunar phases or their timings, thereby maintaining educational integrity. Overall, the visualization achieves its goal of communicating the lunar phases simply and effectively.
 
-     C:\Users\yihan\Desktop\bad visualization.png
+     <img width="754" alt="bad visualization" src="https://github.com/user-attachments/assets/ce403e96-f18e-40ed-aa8e-a1330c841d2e">
+
      Bad visualtion: 
      The Historical Figures visualization demonstrates several common issues that lead to ineffective data presentation. Its complexity overwhelms the viewer, as it attempts to represent too many variables—such as time periods, occupations, countries of origin, and gender—through a single dense chart. The crisscrossing lines connecting various historical figures to different categories create visual clutter, making it difficult for viewers to follow or extract meaningful insights. This excessive detail causes the chart to fail in its primary goal of presenting clear, interpretable data.
      Additionally, the visualization is not accessible. It relies heavily on a wide range of colors to distinguish between different categories, without offering alternative patterns or textures for colorblind users. The small font size further detracts from clarity, requiring viewers to strain in order to read labels and trace the complex pathways of information. As a result, the chart does not provide a user-friendly experience, and the key takeaways are easily lost in the tangle of information.
