@@ -37,7 +37,7 @@
     > What ‘underwater labour’ contributed to your final data visualization product?
     Extensive data cleaning, validation, and transformation efforts were required to ensure consistency and accuracy. Verifying calculations, resolving missing values, and creating aggregated metrics also involved significant manual and computational effort. Testing various chart designs and iterating based on readability and clarity were key to delivering an effective final product.
 
-![alt text](image-1.png)
+![alt text](image-2.png)
 
     > What software did you use to create your data visualization?
     The visualization was created using Microsoft Excel's charting tools, specifically its built-in donut chart feature.
